@@ -14,6 +14,7 @@ public class Main {
 
 
 		printHello(); 
+		printHello(); //test
 	}
 
 	public static void printHello(){
