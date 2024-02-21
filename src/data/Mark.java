@@ -32,4 +32,9 @@ public class Mark {
 				+ "because normally Australians boo meringue ";
 		System.out.println(joke);
 	}
+	public void about()
+	{
+		System.out.println("CSSE Student:");
+		
+	}
 }
